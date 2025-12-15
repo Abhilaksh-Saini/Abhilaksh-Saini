@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhilaksh Saini</h1>
+<h1 align="center">Hi, I'm Abhilaksh Saini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilaksh-saini&label=Profile%20views&color=0e75b6&style=flat" alt="abhilaksh-saini" /> </p>
 
 
