@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilaksh-saini&label=Profile%20views&color=0e75b6&style=flat" alt="abhilaksh-saini" /> </p>
 
 
-- 🌱 I’m currently learning **Flask**
-
 - How to reach me: **abhilaksh.s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
