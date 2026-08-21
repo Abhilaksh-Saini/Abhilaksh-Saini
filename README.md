@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Abhilaksh Saini</h1>
 
-<p align="center">
-  Computer Science Engineering Student | Backend & AI Enthusiast
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhilaksh-saini-4b5937282/">LinkedIn</a> •
