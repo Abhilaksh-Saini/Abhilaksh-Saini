@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <i>“Talent is something you make bloom, instinct is something you polish”</i>
 </p>
